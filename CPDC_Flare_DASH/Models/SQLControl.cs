@@ -823,11 +823,12 @@ namespace CPDC_Flare_DASH.Models
             try
             {
                 
-                DateTime todayMidnight = DateTime.Today;            
-                DateTime yesterdayMidnight = todayMidnight.AddDays(-1); 
+                DateTime todayMidnight = DateTime.Today;
+                DateTime yesterdayMidnight = todayMidnight.AddDays(-1);
 
                 Command.Parameters.AddWithValue("@DateTime", yesterdayMidnight.ToString("yyyy-MM-dd HH:mm:ss"));
-                Command.Parameters.AddWithValue("@DateTime_End", todayMidnight.ToString("yyyy-MM-dd HH:mm:ss"));
+                // 用 23:59:59 避免 BETWEEN 含端點而把今天 00:00 那筆（今日第一小時資料）也算進昨日
+                Command.Parameters.AddWithValue("@DateTime_End", todayMidnight.AddSeconds(-1).ToString("yyyy-MM-dd HH:mm:ss"));
 
                 result = Double.Parse(Command.ExecuteScalar().ToString()).ToString("#0.0");
             }
@@ -949,6 +950,13 @@ namespace CPDC_Flare_DASH.Models
                 dataAdapter.Fill(dt);
 
 
+
+                if (dt.Rows.Count == 0)
+                {
+                    Log.LogWrite("Insert_T15: RawData 15分鐘內無資料，略過計算", 99);
+                    Command.Dispose();
+                    return;
+                }
 
                 object[][] LoadData = new object[dt.Rows.Count][];
                 //將SQL結果放進二維陣列
@@ -1614,11 +1622,12 @@ namespace CPDC_Flare_DASH.Models
                     }
                     else
                     {
-                        //Set Value 若為空 or 0.0 set Null (For SQL)
-                        if (Value[count].ToString() == null || Value[count].ToString() == "" || Value[count].ToString() == "0" || Value[count].ToString() == "0.0" || Value[count].ToString() == "0.00")
+                        // Value[count] 可能為 null（陣列未被填值時），需先檢查再 ToString()
+                        string strVal = Value[count]?.ToString() ?? "";
+                        if (strVal == "" || strVal == "0" || strVal == "0.0" || strVal == "0.00")
                             Command.Parameters.AddWithValue(Key, DBNull.Value);
                         else
-                            Command.Parameters.AddWithValue(Key, decimal.Parse(Value[count].ToString()));
+                            Command.Parameters.AddWithValue(Key, decimal.Parse(strVal));
                     }
                     count++;
                 }
@@ -1641,13 +1650,13 @@ namespace CPDC_Flare_DASH.Models
                 catch (Exception e)
                 {
                     Command.Parameters.Clear();
-                    if (!e.Message.Contains("重複的索引鍵"))
+                    if (e.Message.Contains("重複的索引鍵"))
                     {
                         Log.LogWrite(e.ToString(), 98);
                         Log.LogWrite("SQL-新增資料 失敗 重複的索引鍵", 99);
                         Log.LogWrite(Table_name + "----" + CommandString, 99);
                     }
-                    else if (e.Message.Contains("重複的索引鍵"))
+                    else
                     {
                         Log.LogWrite(e.ToString(), 98);
                         Log.LogWrite("SQL-新增資料 失敗 其他", 99);

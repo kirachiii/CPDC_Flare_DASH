@@ -1441,6 +1441,7 @@
             this.labelWasteTotallast_Value.Name = "labelWasteTotallast_Value";
             this.labelWasteTotallast_Value.Size = new System.Drawing.Size(89, 34);
             this.labelWasteTotallast_Value.TabIndex = 136;
+            this.labelWasteTotallast_Value.Text = "0.0";
             this.labelWasteTotallast_Value.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // DataColletionSystem
@@ -1567,7 +1568,7 @@
             this.Margin = new System.Windows.Forms.Padding(3, 2, 3, 2);
             this.MaximizeBox = false;
             this.Name = "DataColletionSystem";
-            this.Text = "Data Colletion System V3.2";
+            this.Text = "Data Colletion System V4.0";
             this.Closing += new System.ComponentModel.CancelEventHandler(this.Main_FormClosing);
             this.Load += new System.EventHandler(this.Main_Load);
             this.menuStrip1.ResumeLayout(false);

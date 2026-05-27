@@ -24,7 +24,7 @@ namespace CPDC_Flare_DASH
         GetHttpData _mGetHttpData;
         SerialPortConnect serial = new SerialPortConnect();
         SerialPortConnect serialRegulate = new SerialPortConnect();
-        BackgroundWorker backgroundworker;
+        // 移除共用 backgroundworker 欄位，改在觸發點建立 local 變數，避免競態
         //宣告 Comport  與 地址
         int BaudWaste, BaudGas, BaudDCS, BaudRegulate , BaudFire;
         string ComWaste, ComGas, ComDCS, ComRegulate , ComFire;
@@ -595,102 +595,110 @@ namespace CPDC_Flare_DASH
 
                 if (timer_count == 12)
                 {
-                    //測試用 隨機產生value
-                    //Random_testing();
-
-                    //20210929_每次insert前計算熱值 (之後搬進下面if內)
-                    lblHCN_Value.Text = (float.Parse(lblHCN_PPM.Text) * 0.000000187 * 101.94).ToString("f4");
-                    lblC3H6_Value.Text = (float.Parse(lblC3H6_PPM.Text) * 0.000000187 * 489.723).ToString("f4");
-                    lblACN_Value.Text = (float.Parse(lblACN_PPM.Text) * 0.000000187 * 300.2).ToString("f4");
-                    lblAN_Value.Text = (float.Parse(lblAN_PPM.Text) * 0.000000187 * 410.61).ToString("f4");
-                    lblC1_Value.Text = (float.Parse(lblC1_PPM.Text) * 0.000000187 * 534.688).ToString("f4");
-                    lblC2_Value.Text = (float.Parse(lblC2_PPM.Text) * 0.000000187 * 511.173).ToString("f4");
-                    lblC3_Value.Text = (float.Parse(lblC3_PPM.Text) * 0.000000187 * 504.721).ToString("f4");
-                    lblC4_Value.Text = (float.Parse(lblC4_PPM.Text) * 0.000000187 * 507.77).ToString("f4");
-                    lblC5_Value.Text = (float.Parse(lblC5_PPM.Text) * 0.000000187 * 518.62).ToString("f4");
-                    float sum = float.Parse(lblHCN_Value.Text) +
-                    float.Parse(lblC3H6_Value.Text) +
-                    float.Parse(lblACN_Value.Text) +
-                    float.Parse(lblAN_Value.Text) +
-                    float.Parse(lblC1_Value.Text) +
-                    float.Parse(lblC2_Value.Text) +
-                    float.Parse(lblC3_Value.Text) +
-                    float.Parse(lblC4_Value.Text) +
-                    float.Parse(lblC5_Value.Text);
-
-                    label4.Text = sum.ToString("f4");
-
-
-
-                    InsertSQL("GC");
-
-                    InsertSQL("Raw");
-
-                    // 計算總熱值 GHV
-                    decimal GHV = Convert.ToDecimal(sum);
-
-                    // 抓取 TMP 的值
-                    decimal TMP = decimal.Parse(labelSiteTemp_Value.Text);
-
-                    // 抓取各成分的熱值並轉換為 decimal
-                    decimal C1 = decimal.Parse(lblC1_Value.Text);
-                    decimal C2 = decimal.Parse(lblC2_Value.Text);
-                    decimal C3 = decimal.Parse(lblC3_Value.Text);
-                    decimal C4 = decimal.Parse(lblC4_Value.Text);
-                    decimal C5 = decimal.Parse(lblC5_Value.Text);
-                    decimal HCN = decimal.Parse(lblHCN_Value.Text);
-                    decimal C3H6 = decimal.Parse(lblC3H6_Value.Text);
-                    decimal ACN = decimal.Parse(lblACN_Value.Text);
-                    decimal AN = decimal.Parse(lblAN_Value.Text);
-
-                    // 呼叫 InsertRawData_Temporary 方法插入資料
-                    SQLControl.InsertRawData_Temporary(C1, C2, C3, C4, C5, HCN, C3H6, ACN, AN, GHV, TMP);
-
-                    if (GlobalVariable.CPDCInfo.GC_File_Status == true)
+                    try
                     {
-                        GlobalVariable.CPDCInfo.GC_File_Status = false;
-                    }
-                    
+                        //20210929_每次insert前計算熱值 (之後搬進下面if內)
+                        lblHCN_Value.Text = (float.Parse(lblHCN_PPM.Text) * 0.000000187 * 101.94).ToString("f4");
+                        lblC3H6_Value.Text = (float.Parse(lblC3H6_PPM.Text) * 0.000000187 * 489.723).ToString("f4");
+                        lblACN_Value.Text = (float.Parse(lblACN_PPM.Text) * 0.000000187 * 300.2).ToString("f4");
+                        lblAN_Value.Text = (float.Parse(lblAN_PPM.Text) * 0.000000187 * 410.61).ToString("f4");
+                        lblC1_Value.Text = (float.Parse(lblC1_PPM.Text) * 0.000000187 * 534.688).ToString("f4");
+                        lblC2_Value.Text = (float.Parse(lblC2_PPM.Text) * 0.000000187 * 511.173).ToString("f4");
+                        lblC3_Value.Text = (float.Parse(lblC3_PPM.Text) * 0.000000187 * 504.721).ToString("f4");
+                        lblC4_Value.Text = (float.Parse(lblC4_PPM.Text) * 0.000000187 * 507.77).ToString("f4");
+                        lblC5_Value.Text = (float.Parse(lblC5_PPM.Text) * 0.000000187 * 518.62).ToString("f4");
+                        float sum = float.Parse(lblHCN_Value.Text) +
+                        float.Parse(lblC3H6_Value.Text) +
+                        float.Parse(lblACN_Value.Text) +
+                        float.Parse(lblAN_Value.Text) +
+                        float.Parse(lblC1_Value.Text) +
+                        float.Parse(lblC2_Value.Text) +
+                        float.Parse(lblC3_Value.Text) +
+                        float.Parse(lblC4_Value.Text) +
+                        float.Parse(lblC5_Value.Text);
 
-                    //15minute average && writeDeclareFile60
-                    DateTime dateTime = DateTime.Now;
-                    if (dateTime.ToString("HH:mm") == "07:10")
+                        label4.Text = sum.ToString("f4");
+
+                        InsertSQL("GC");
+                        InsertSQL("Raw");
+
+                        // 計算總熱值 GHV
+                        decimal GHV = Convert.ToDecimal(sum);
+
+                        // 抓取 TMP 的值
+                        decimal TMP = decimal.Parse(labelSiteTemp_Value.Text);
+
+                        // 抓取各成分的熱值並轉換為 decimal
+                        decimal C1 = decimal.Parse(lblC1_Value.Text);
+                        decimal C2 = decimal.Parse(lblC2_Value.Text);
+                        decimal C3 = decimal.Parse(lblC3_Value.Text);
+                        decimal C4 = decimal.Parse(lblC4_Value.Text);
+                        decimal C5 = decimal.Parse(lblC5_Value.Text);
+                        decimal HCN = decimal.Parse(lblHCN_Value.Text);
+                        decimal C3H6 = decimal.Parse(lblC3H6_Value.Text);
+                        decimal ACN = decimal.Parse(lblACN_Value.Text);
+                        decimal AN = decimal.Parse(lblAN_Value.Text);
+
+                        // 呼叫 InsertRawData_Temporary 方法插入資料
+                        SQLControl.InsertRawData_Temporary(C1, C2, C3, C4, C5, HCN, C3H6, ACN, AN, GHV, TMP);
+
+                        if (GlobalVariable.CPDCInfo.GC_File_Status == true)
+                        {
+                            GlobalVariable.CPDCInfo.GC_File_Status = false;
+                        }
+
+                        //15minute average && writeDeclareFile60
+                        DateTime dateTime = DateTime.Now;
+                        if (dateTime.ToString("HH:mm") == "07:10")
+                        {
+                            serial.SendData(GasArray, "Regulate");
+                        }
+
+                        switch (dateTime.ToString("mm"))
+                        {
+                            case "00":
+                            {
+                                var bw = new BackgroundWorker();
+                                bw.DoWork += new DoWorkEventHandler(WriteFile);
+                                bw.RunWorkerAsync();
+                                break;
+                            }
+                            case "01":
+                                labelSiteLNGANow_Value.Text = SQLControl.GetSQLResult_For_LNG_today($@"Select  isnull(sum(Value25),0) from  [{GlobalVariable.CPDCInfo.SQLDataCatelog}].[dbo].[AVG_T60]
+                                                              where RecDateTime >= @DateTime");
+                                labelSiteLNGBNow_Value.Text = SQLControl.GetSQLResult_For_LNG_today($@"Select  isnull(sum(Value26),0) from  [{GlobalVariable.CPDCInfo.SQLDataCatelog}].[dbo].[AVG_T60]
+                                                              where RecDateTime >= @DateTime");
+
+                                labelSiteLNGALast_Value.Text = SQLControl.GetSQLResult_Last($@"Select  isnull(sum(Value25),0) from  [{GlobalVariable.CPDCInfo.SQLDataCatelog}].[dbo].[AVG_T60]
+                                                               where RecDateTime between @DateTime and @DateTime_End ");
+                                labelSiteLNGBLast_Value.Text = SQLControl.GetSQLResult_Last($@"Select  isnull(sum(Value26),0) from  [{GlobalVariable.CPDCInfo.SQLDataCatelog}].[dbo].[AVG_T60]
+                                                               where RecDateTime between @DateTime and @DateTime_End ");
+                                labelWasteTotallast_Value.Text = SQLControl.GetSQLResult_Last_Midnight($@"Select  isnull(sum(Value14),0) from  [{GlobalVariable.CPDCInfo.SQLDataCatelog}].[dbo].[AVG_T60]
+                                                               where RecDateTime between @DateTime and @DateTime_End ");
+                                break;
+                            case "10":
+                            case "15":
+                            case "30":
+                            case "45":
+                            {
+                                var bw = new BackgroundWorker();
+                                bw.DoWork += new DoWorkEventHandler(WriteFile);
+                                bw.RunWorkerAsync();
+                                break;
+                            }
+                        }
+                    }
+                    catch (Exception ex)
                     {
-                        serial.SendData(GasArray, "Regulate");
+                        Log.LogWrite("Main-timer_count12錯誤", 99);
+                        Log.LogWrite("Main-timer_count12錯誤" + ex.ToString(), 98);
                     }
-
-                    switch (dateTime.ToString("mm"))
+                    finally
                     {
-                        case "00":
-                            
-                            backgroundworker = new BackgroundWorker();
-                            backgroundworker.DoWork += new DoWorkEventHandler(WriteFile);
-                            backgroundworker.RunWorkerAsync();
-                            break;
-                        case "01":
-                            labelSiteLNGANow_Value.Text = SQLControl.GetSQLResult_For_LNG_today($@"Select  isnull(sum(Value25),0) from  [{GlobalVariable.CPDCInfo.SQLDataCatelog}].[dbo].[AVG_T60]  
-                                                          where RecDateTime >= @DateTime");
-                            labelSiteLNGBNow_Value.Text = SQLControl.GetSQLResult_For_LNG_today($@"Select  isnull(sum(Value26),0) from  [{GlobalVariable.CPDCInfo.SQLDataCatelog}].[dbo].[AVG_T60]  
-                                                          where RecDateTime >= @DateTime");
-
-                            labelSiteLNGALast_Value.Text = SQLControl.GetSQLResult_Last($@"Select  isnull(sum(Value25),0) from  [{GlobalVariable.CPDCInfo.SQLDataCatelog}].[dbo].[AVG_T60]  
-                                                           where RecDateTime between @DateTime and @DateTime_End ");
-                            labelSiteLNGBLast_Value.Text = SQLControl.GetSQLResult_Last($@"Select  isnull(sum(Value26),0) from  [{GlobalVariable.CPDCInfo.SQLDataCatelog}].[dbo].[AVG_T60]  
-                                                           where RecDateTime between @DateTime and @DateTime_End ");
-                            labelWasteTotallast_Value.Text = SQLControl.GetSQLResult_Last_Midnight($@"Select  isnull(sum(Value14),0) from  [{GlobalVariable.CPDCInfo.SQLDataCatelog}].[dbo].[AVG_T60]  
-                                                           where RecDateTime between @DateTime and @DateTime_End ");
-
-                            break;
-                        case "10":
-                        case "15":
-                        case "30":
-                        case "45":
-                            backgroundworker = new BackgroundWorker();
-                            backgroundworker.DoWork += new DoWorkEventHandler(WriteFile);
-                            backgroundworker.RunWorkerAsync();
-                            break;
+                        // 無論是否發生 Exception，timer_count 必須歸零
+                        // 否則 timer_count 會永遠卡在 13+ 導致後續所有產檔失效
+                        timer_count = 0;
                     }
-                    timer_count = 0;
                 }
             }
             catch (Exception ex)
@@ -891,13 +899,11 @@ namespace CPDC_Flare_DASH
         //申報檔案
         private void WriteFile(object sender, EventArgs e)
         {
+            BackgroundWorker self = sender as BackgroundWorker;
             try
             {
                 SQLstatus = true;
                 DateTime dateTime = DateTime.Now;
-
-
-                //20210826 不需要預存程式~
 
                 if (dateTime.ToString("mm") != "10")
                 {
@@ -907,7 +913,6 @@ namespace CPDC_Flare_DASH
                 {
                     SQLControl.Insert_T60(dateTime, "Cal_T60");
                 }
-
 
                 WriteDeclare writeDeclare = new WriteDeclare();
                 if (dateTime.ToString("HH:mm") == "00:00")
@@ -923,15 +928,16 @@ namespace CPDC_Flare_DASH
                 {
                     writeDeclare.WriteFile_T15(dateTime, SQLControl);
                 }
-                
-
-
-                backgroundworker.Dispose();
-                SQLstatus = false;
             }
             catch (Exception ex)
             {
-                Log.LogWrite("backgroundworker erorr" + ex.ToString(), 99);
+                Log.LogWrite("backgroundworker error" + ex.ToString(), 99);
+            }
+            finally
+            {
+                // 無論成功或失敗，一定解除 SQL 鎖並釋放自己的 worker
+                SQLstatus = false;
+                self?.Dispose();
             }
         }
 
