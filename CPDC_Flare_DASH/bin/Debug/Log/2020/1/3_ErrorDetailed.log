@@ -1,0 +1,525 @@
+2020/1/3 下午 02:25:57 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:25:57 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:12 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:12 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:17 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:17 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:22 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:22 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:27 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:27 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:32 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:32 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:37 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:37 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:58 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:26:58 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:24 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:24 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:29 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:29 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:34 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:34 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:39 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:39 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:49 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:49 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:49 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:49 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:54 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:54 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:59 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:27:59 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:28:04 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:28:04 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:28:09 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:28:09 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:28:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:28:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:28:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:28:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:29:02 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:29:02 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:29:20 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:29:20 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:30:06 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:30:06 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:53:53 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:53:53 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:54:11 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:54:11 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:54:16 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:54:16 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:54:54 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:54:54 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:09 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:09 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:24 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:24 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:29 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:29 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:34 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:34 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:58 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:55:58 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:56:13 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:56:13 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:56:18 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:56:18 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:56:23 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 02:56:23 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:00:50 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:00:50 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:01:06 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:01:06 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:01:11 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:01:11 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:01:40 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:01:40 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:01:55 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:01:55 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:02:00 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:02:00 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:02:05 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:02:05 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:02:10 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:02:10 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:17:54 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:17:54 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:18:09 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:18:09 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:18:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:18:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:18:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:18:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:26:55 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:26:55 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:28:22 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:28:22 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:28:37 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:28:37 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:32:21 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:32:21 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:32:36 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:32:36 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:24 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:24 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:31 >> System.UnauthorizedAccessException: 拒絕存取通訊埠 'COM1'。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.ModbusRTU.Console_ModbusRtu(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ModbusRTU.cs: 行 37
+2020/1/3 下午 03:33:31 >> System.UnauthorizedAccessException: 拒絕存取通訊埠 'COM3'。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/1/3 下午 03:33:31 >> System.UnauthorizedAccessException: 拒絕存取通訊埠 'COM5'。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.ModbusSLV.Consolo_ModbusSlave(String comport, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ModbusSLV.cs: 行 21
+2020/1/3 下午 03:33:31 >> System.UnauthorizedAccessException: 拒絕存取通訊埠 'COM7'。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/1/3 下午 03:33:31 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:31 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:31 >> System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.SendData(String[] SensorArray, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 150
+2020/1/3 下午 03:33:36 >> System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.SendData(String[] SensorArray, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 150
+2020/1/3 下午 03:33:36 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:36 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:39 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:39 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:44 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:44 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:49 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:49 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:54 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:54 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:59 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:33:59 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:04 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:04 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:24 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:24 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:29 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:29 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:34 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:34 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:44 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:44 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:44 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:44 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:49 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:49 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:54 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:54 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:59 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:34:59 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:04 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:04 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:14 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:24 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:24 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:29 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:29 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:34 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:34 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:44 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:44 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:44 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:35:44 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:10 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:10 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:16 >> System.UnauthorizedAccessException: 拒絕存取通訊埠 'COM1'。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.ModbusRTU.Console_ModbusRtu(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ModbusRTU.cs: 行 37
+2020/1/3 下午 03:36:16 >> System.UnauthorizedAccessException: 拒絕存取通訊埠 'COM3'。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/1/3 下午 03:36:16 >> System.UnauthorizedAccessException: 拒絕存取通訊埠 'COM5'。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.ModbusSLV.Consolo_ModbusSlave(String comport, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ModbusSLV.cs: 行 21
+2020/1/3 下午 03:36:16 >> System.UnauthorizedAccessException: 拒絕存取通訊埠 'COM7'。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/1/3 下午 03:36:16 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:16 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:16 >> System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.SendData(String[] SensorArray, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 150
+2020/1/3 下午 03:36:21 >> System.InvalidOperationException: 通訊埠已經關閉。
+   於 System.IO.Ports.SerialPort.Write(Byte[] buffer, Int32 offset, Int32 count)
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.SendData(String[] SensorArray, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 150
+2020/1/3 下午 03:36:21 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:21 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:25 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:25 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:30 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:30 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:35 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:35 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:40 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:40 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:45 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:45 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:50 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:36:50 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:00 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:00 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:00 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:00 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:05 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:05 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:10 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:10 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:15 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:15 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:20 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:20 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:30 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:30 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:30 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 03:37:30 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 05:14:53 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 05:14:53 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 05:17:39 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 05:17:39 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 05:17:57 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 05:17:57 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 05:24:30 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 05:24:30 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 05:24:45 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 05:24:45 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 05:24:50 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 05:24:50 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:00 >> System.IO.IOException: 通訊埠 'COM7' 不存在。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/1/3 下午 08:30:00 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:00 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:16 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:16 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:21 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:21 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:26 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:26 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:31 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:31 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:36 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:36 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:41 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:41 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:51 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:51 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:51 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/1/3 下午 08:30:51 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17

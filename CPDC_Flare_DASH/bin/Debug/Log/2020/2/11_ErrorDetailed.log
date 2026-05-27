@@ -1,0 +1,139 @@
+2020/2/11 下午 02:11:47 >> System.IO.IOException: 通訊埠 'COM7' 不存在。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/2/11 下午 02:11:47 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:11:47 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:12:00 >> System.IO.IOException: 通訊埠 'COM7' 不存在。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/2/11 下午 02:12:00 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:12:00 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:17:30 >> System.IO.IOException: 通訊埠 'COM7' 不存在。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/2/11 下午 02:17:30 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:17:30 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:18:53 >> System.IO.IOException: 通訊埠 'COM7' 不存在。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/2/11 下午 02:18:53 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:18:53 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:20:18 >> System.IO.IOException: 通訊埠 'COM7' 不存在。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/2/11 下午 02:20:18 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:20:18 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:20:33 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:20:33 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:20:38 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:20:38 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:20:43 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:20:43 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:21:13 >> System.IO.IOException: 通訊埠 'COM7' 不存在。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/2/11 下午 02:21:13 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:21:13 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:28:37 >> System.IO.IOException: 通訊埠 'COM7' 不存在。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/2/11 下午 02:28:37 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:28:37 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:28:56 >> System.IO.IOException: 通訊埠 'COM7' 不存在。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/2/11 下午 02:28:56 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:28:56 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:29:11 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:29:11 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:34:06 >> System.IO.IOException: 通訊埠 'COM7' 不存在。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/2/11 下午 02:34:06 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:34:06 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:37:19 >> System.IO.IOException: 通訊埠 'COM7' 不存在。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/2/11 下午 02:37:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:37:19 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:42:21 >> System.IO.IOException: 通訊埠 'COM7' 不存在。
+   於 System.IO.Ports.InternalResources.WinIOError(Int32 errorCode, String str)
+   於 System.IO.Ports.SerialStream..ctor(String portName, Int32 baudRate, Parity parity, Int32 dataBits, StopBits stopBits, Int32 readTimeout, Int32 writeTimeout, Handshake handshake, Boolean dtrEnable, Boolean rtsEnable, Boolean discardNull, Byte parityReplace)
+   於 System.IO.Ports.SerialPort.Open()
+   於 CPDC_Flare_DASH.Models.SerialPortConnect.Console_Connect(String COM, Int32 baud) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\SerialPortConnect.cs: 行 38
+2020/2/11 下午 02:42:21 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:42:21 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:42:36 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:42:36 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:42:41 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:42:41 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:42:46 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:42:46 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:42:51 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:42:51 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:42:56 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:42:56 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:43:01 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17
+2020/2/11 下午 02:43:01 >> System.NullReferenceException: 並未將物件參考設定為物件的執行個體。
+   於 CPDC_Flare_DASH.Models.ReadFile.ReadFileInitial(String Address, String Type) 於 D:\3.Winform\2.中石化\CPDC_Flare_DASH\CPDC_Flare_DASH\Models\ReadFile.cs: 行 17

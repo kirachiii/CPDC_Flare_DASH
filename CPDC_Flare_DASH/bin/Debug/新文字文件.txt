@@ -1,0 +1,2 @@
+2: \r\nChannel: 1 CAL  04 DEC 07:33 PM\r\n\r\nRange1 Self-Calibration \r\nZero scale Error 0.00 %  PASS\r\nFull scale Error 0.07 %[2019/12/4 ¤U¤È 07:31:02] (R119)
+3: PASS\r\n\r\nRange2 Self-Calibration \r\nZero scale Error 0.08 %  PASS\r\nFull scale Error 0.06 %  PASS\r\n[2019/12/4 ¤U¤È 07:31:02] (R96)
